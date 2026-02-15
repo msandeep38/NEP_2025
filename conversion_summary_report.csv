@@ -1,0 +1,12 @@
+File_Name,Table_Source,Record_Count,Column_Count,Schema_Status,Data_Quality,Key_Columns
+sched_batch_course_enrollment.csv,batch_course_enrollment,6,5,Compliant,Valid,batch_id; course_id; credits_allocated
+sched_constraints.csv,constraints,5,7,Compliant,Valid,constraint_id; tenant_id; constraint_code
+sched_courses.csv,courses,30,14,Compliant,Valid,course_id; tenant_id; institution_id
+sched_departments.csv,departments,5,7,Compliant,Valid,department_id; tenant_id; institution_id
+sched_faculty.csv,faculty,25,14,Compliant,Valid,faculty_id; tenant_id; institution_id
+sched_faculty_course_competency.csv,faculty_course_competency,12,6,Compliant,Valid,faculty_id; course_id; competency_level
+sched_institutions.csv,institutions,1,12,Compliant,Valid,institution_id; tenant_id; institution_name
+sched_programs.csv,programs,5,11,Compliant,Valid,program_id; tenant_id; institution_id
+sched_rooms.csv,rooms,15,11,Compliant,Valid,room_id; tenant_id; institution_id
+sched_student_batches.csv,student_batches,18,10,Compliant,Valid,batch_id; tenant_id; institution_id
+sched_time_slots.csv,time_slots,40,10,Compliant,Valid,timeslot_id; tenant_id; institution_id

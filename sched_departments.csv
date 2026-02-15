@@ -1,0 +1,6 @@
+department_id,tenant_id,institution_id,department_code,department_name,allows_cross_enrollment,interdisciplinary_priority
+a1b2c3d4-e5f6-7890-abcd-123456789101,a1b2c3d4-e5f6-7890-abcd-123456789abc,a1b2c3d4-e5f6-7890-abcd-123456789001,CSE,Computer Science & Engineering,TRUE,8
+a1b2c3d4-e5f6-7890-abcd-123456789102,a1b2c3d4-e5f6-7890-abcd-123456789abc,a1b2c3d4-e5f6-7890-abcd-123456789001,ECE,Electronics & Communication Engineering,TRUE,7
+a1b2c3d4-e5f6-7890-abcd-123456789103,a1b2c3d4-e5f6-7890-abcd-123456789abc,a1b2c3d4-e5f6-7890-abcd-123456789001,ME,Mechanical Engineering,TRUE,6
+a1b2c3d4-e5f6-7890-abcd-123456789104,a1b2c3d4-e5f6-7890-abcd-123456789abc,a1b2c3d4-e5f6-7890-abcd-123456789001,MGMT,Management Studies,TRUE,9
+a1b2c3d4-e5f6-7890-abcd-123456789105,a1b2c3d4-e5f6-7890-abcd-123456789abc,a1b2c3d4-e5f6-7890-abcd-123456789001,BASIC,Basic Sciences & Humanities,TRUE,10

@@ -1,0 +1,6 @@
+program_id,tenant_id,institution_id,department_id,program_code,program_name,program_type,is_multidisciplinary,supports_minor,duration_semesters,total_credits_required
+a1b2c3d4-e5f6-7890-abcd-123456789201,a1b2c3d4-e5f6-7890-abcd-123456789abc,a1b2c3d4-e5f6-7890-abcd-123456789001,a1b2c3d4-e5f6-7890-abcd-123456789101,BTECH_CSE,B.Tech Computer Science Engineering,UG,TRUE,TRUE,8,160
+a1b2c3d4-e5f6-7890-abcd-123456789202,a1b2c3d4-e5f6-7890-abcd-123456789abc,a1b2c3d4-e5f6-7890-abcd-123456789001,a1b2c3d4-e5f6-7890-abcd-123456789102,BTECH_ECE,B.Tech Electronics & Communication,UG,TRUE,TRUE,8,160
+a1b2c3d4-e5f6-7890-abcd-123456789203,a1b2c3d4-e5f6-7890-abcd-123456789abc,a1b2c3d4-e5f6-7890-abcd-123456789001,a1b2c3d4-e5f6-7890-abcd-123456789103,BTECH_ME,B.Tech Mechanical Engineering,UG,FALSE,TRUE,8,160
+a1b2c3d4-e5f6-7890-abcd-123456789204,a1b2c3d4-e5f6-7890-abcd-123456789abc,a1b2c3d4-e5f6-7890-abcd-123456789001,a1b2c3d4-e5f6-7890-abcd-123456789104,BBA,Bachelor of Business Administration,UG,TRUE,FALSE,6,120
+a1b2c3d4-e5f6-7890-abcd-123456789205,a1b2c3d4-e5f6-7890-abcd-123456789abc,a1b2c3d4-e5f6-7890-abcd-123456789001,a1b2c3d4-e5f6-7890-abcd-123456789104,MBA,Master of Business Administration,PG,TRUE,FALSE,4,80

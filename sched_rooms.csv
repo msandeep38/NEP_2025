@@ -1,0 +1,16 @@
+room_id,tenant_id,institution_id,room_code,room_name,building_name,floor_number,room_type,capacity,equipment_available,department_access
+a1b2c3d4-e5f6-7890-abcd-123456789501,a1b2c3d4-e5f6-7890-abcd-123456789abc,a1b2c3d4-e5f6-7890-abcd-123456789001,CSE_LAB_001,Programming Lab 1,IT Block,1,LAB,30,Computer;IDE;Projector,CSE
+a1b2c3d4-e5f6-7890-abcd-123456789502,a1b2c3d4-e5f6-7890-abcd-123456789abc,a1b2c3d4-e5f6-7890-abcd-123456789001,CSE_LAB_002,Programming Lab 2,IT Block,1,LAB,30,Computer;IDE;Network,CSE
+a1b2c3d4-e5f6-7890-abcd-123456789503,a1b2c3d4-e5f6-7890-abcd-123456789abc,a1b2c3d4-e5f6-7890-abcd-123456789001,CSE_LAB_003,Database Lab,IT Block,2,LAB,25,Computer;Database_Software;Server,CSE
+a1b2c3d4-e5f6-7890-abcd-123456789504,a1b2c3d4-e5f6-7890-abcd-123456789abc,a1b2c3d4-e5f6-7890-abcd-123456789001,CSE_LAB_004,AI/ML Lab,IT Block,2,LAB,20,Computer;GPU;ML_Software,CSE
+a1b2c3d4-e5f6-7890-abcd-123456789505,a1b2c3d4-e5f6-7890-abcd-123456789abc,a1b2c3d4-e5f6-7890-abcd-123456789001,CSE_LAB_005,Mobile Development Lab,IT Block,3,LAB,25,Computer;Mobile_SDK;Android_Devices,CSE
+a1b2c3d4-e5f6-7890-abcd-123456789510,a1b2c3d4-e5f6-7890-abcd-123456789abc,a1b2c3d4-e5f6-7890-abcd-123456789001,ECE_LAB_001,Basic Electronics Lab,Electronics Block,1,LAB,28,Oscilloscope;Function_Generator;Multimeter,ECE
+a1b2c3d4-e5f6-7890-abcd-123456789511,a1b2c3d4-e5f6-7890-abcd-123456789abc,a1b2c3d4-e5f6-7890-abcd-123456789001,ECE_LAB_002,Digital Electronics Lab,Electronics Block,1,LAB,28,Logic_Analyzer;Breadboard;IC_Tester,ECE
+a1b2c3d4-e5f6-7890-abcd-123456789512,a1b2c3d4-e5f6-7890-abcd-123456789abc,a1b2c3d4-e5f6-7890-abcd-123456789001,ECE_LAB_003,Communication Lab,Electronics Block,2,LAB,25,Signal_Generator;Spectrum_Analyzer;Network_Analyzer,ECE
+a1b2c3d4-e5f6-7890-abcd-123456789513,a1b2c3d4-e5f6-7890-abcd-123456789abc,a1b2c3d4-e5f6-7890-abcd-123456789001,ECE_LAB_004,VLSI & Embedded Lab,Electronics Block,2,LAB,20,Computer;VLSI_Software;Embedded_Kit,ECE
+a1b2c3d4-e5f6-7890-abcd-123456789520,a1b2c3d4-e5f6-7890-abcd-123456789abc,a1b2c3d4-e5f6-7890-abcd-123456789001,ME_LAB_001,Engineering Mechanics Lab,Mechanical Block,1,LAB,30,Force_Table;Weights;Measuring_Tools,ME
+a1b2c3d4-e5f6-7890-abcd-123456789521,a1b2c3d4-e5f6-7890-abcd-123456789abc,a1b2c3d4-e5f6-7890-abcd-123456789001,ME_LAB_002,Thermal Engineering Lab,Mechanical Block,1,LAB,25,Heat_Engine;Thermometer;Calorimeter,ME
+a1b2c3d4-e5f6-7890-abcd-123456789522,a1b2c3d4-e5f6-7890-abcd-123456789abc,a1b2c3d4-e5f6-7890-abcd-123456789001,ME_LAB_003,Manufacturing Lab,Mechanical Block,2,LAB,20,Lathe;Milling_Machine;CAD_Software,ME
+a1b2c3d4-e5f6-7890-abcd-123456789530,a1b2c3d4-e5f6-7890-abcd-123456789abc,a1b2c3d4-e5f6-7890-abcd-123456789001,BS_LAB_001,Physics Lab,Science Block,1,LAB,30,Physics_Lab_Equipment;Measuring_Instruments,BASIC
+a1b2c3d4-e5f6-7890-abcd-123456789531,a1b2c3d4-e5f6-7890-abcd-123456789abc,a1b2c3d4-e5f6-7890-abcd-123456789001,BS_LAB_002,Chemistry Lab,Science Block,1,LAB,25,Chemistry_Lab_Equipment;Fume_Hood,BASIC
+a1b2c3d4-e5f6-7890-abcd-123456789532,a1b2c3d4-e5f6-7890-abcd-123456789abc,a1b2c3d4-e5f6-7890-abcd-123456789001,BS_LAB_003,Language Lab,Humanities Block,1,LAB,32,Computer;Audio_System;Microphone,BASIC

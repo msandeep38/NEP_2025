@@ -1,0 +1,6 @@
+constraint_id,tenant_id,constraint_code,constraint_name,constraint_type,penalty_weight,priority_level
+a1b2c3d4-e5f6-7890-abcd-123456789901,a1b2c3d4-e5f6-7890-abcd-123456789abc,NO_FACULTY_CONFLICT,Faculty cannot teach two classes simultaneously,HARD,1000.0,10
+a1b2c3d4-e5f6-7890-abcd-123456789902,a1b2c3d4-e5f6-7890-abcd-123456789abc,NO_ROOM_CONFLICT,Room cannot host two classes simultaneously,HARD,1000.0,10
+a1b2c3d4-e5f6-7890-abcd-123456789903,a1b2c3d4-e5f6-7890-abcd-123456789abc,NO_BATCH_CONFLICT,Batch cannot attend two classes simultaneously,HARD,1000.0,10
+a1b2c3d4-e5f6-7890-abcd-123456789904,a1b2c3d4-e5f6-7890-abcd-123456789abc,FACULTY_MAX_HOURS,Faculty maximum hours per week limit,SOFT,50.0,8
+a1b2c3d4-e5f6-7890-abcd-123456789905,a1b2c3d4-e5f6-7890-abcd-123456789abc,ROOM_UTILIZATION,Optimize room utilization,SOFT,10.0,5
